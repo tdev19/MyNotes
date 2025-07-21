@@ -1,0 +1,455 @@
+{
+  "main": {
+    "id": "0b231926117207c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b18ca4d560b1233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0ef58892a6a740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Boto3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Boto3"
+            }
+          },
+          {
+            "id": "28e952d74e209338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          },
+          {
+            "id": "a41c5977251ced11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Feedback"
+            }
+          },
+          {
+            "id": "fb80782c5c3c399b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI"
+            }
+          },
+          {
+            "id": "e3f2ba018d4ff836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Interview 150.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview 150"
+            }
+          },
+          {
+            "id": "e9ee5d97e00e7cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Patterns"
+            }
+          },
+          {
+            "id": "a8bb9e6539d08216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Interview Questions"
+            }
+          },
+          {
+            "id": "075c03c3e797b730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Interview Questions"
+            }
+          },
+          {
+            "id": "217eb12b57dcd121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Learning List/Things I need to learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I need to learn"
+            }
+          },
+          {
+            "id": "b3a7f77f0dc25e0e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240724234806.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240724234806"
+            }
+          },
+          {
+            "id": "bf4b2ba9b1ea0dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Array Interview questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array Interview questions"
+            }
+          },
+          {
+            "id": "f756302e2dc2e1fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning List/Things I need to learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I need to learn"
+            }
+          },
+          {
+            "id": "6a3763b919b13eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Interview 150.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview 150"
+            }
+          },
+          {
+            "id": "9f3ff69a7d985540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "31f91395d77d2ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Flask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Flask"
+            }
+          },
+          {
+            "id": "7a988321ad07f23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning List/Things I need to learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I need to learn"
+            }
+          },
+          {
+            "id": "6dbf5b6df3039951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
+            }
+          },
+          {
+            "id": "b6c2d69f1b952e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "889373af63754a64",
+    "type": "split",
+    "children": [
+      {
+        "id": "0817fba6bab61cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ce87b492069831",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1243e2f8f7b34ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f77159b048cb66fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e3e459c5210980",
+    "type": "split",
+    "children": [
+      {
+        "id": "6774c348a217a731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e083054790d2e08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Binary Search"
+            }
+          },
+          {
+            "id": "de33ce277c1ffff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Binary Search"
+            }
+          },
+          {
+            "id": "dffd1272db72c945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65360d46ed11154c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Binary Search.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Binary Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "28e952d74e209338",
+  "lastOpenFiles": [
+    "Interview Feedback.md",
+    "DSA/Learning List/Things I need to learn.md",
+    "DSA/Array Interview questions.md",
+    "DSA/Interview 150.md",
+    "DSA/Binary Search.md",
+    "AWS.md",
+    "AWS Interview Questions.md",
+    "AWS- ECS.md",
+    "Cloud Security.md",
+    "Data Engineer Road Map.md",
+    "Data Structures.md",
+    "Design Patterns.md",
+    "AWS DevOPs Interview Questions Devon.md",
+    "Python Interview Questions.md",
+    "2025-06-15.md",
+    "Untitled 1.canvas",
+    "Shell Scripting/Read input mathematical expression and print result.md",
+    "SQL Interview Questions.md",
+    "Shell Scripting.md",
+    "System Design.md",
+    "Untitled.canvas",
+    "Python Flask.md",
+    "Shell Scripting/Intermediate.md",
+    "Terraform/Terraform 3.md",
+    "Terraform/Terraform 2.md",
+    "2024-07-10.md",
+    "Pasted image 20240802162027.png",
+    "2025-05-25.md",
+    "Angular.md",
+    "Pasted image 20250611222510.png",
+    "Pasted image 20240725002501.png",
+    "Pasted image 20240802162017.png",
+    "Terraform",
+    "Pasted image 20240802162014.png",
+    "Pasted image 20240802195223.png",
+    "Pasted image 20240724234616.png",
+    "Pasted image 20240724233247.png",
+    "Pasted image 20240722001201.png",
+    "Pasted image 20240724232925.png",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "DSA/list = [9,5,11,7,98,34,87].py",
+    "pan_Card_pdf.pdf",
+    "DSA",
+    "Quotes",
+    "Cloud/Google Cloud",
+    "Cloud",
+    "DSA/Learning List",
+    "Shell Scripting"
+  ]
+}

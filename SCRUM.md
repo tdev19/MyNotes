@@ -1,0 +1,1 @@
+Its an agile team collaboration framework commonly used in software development process.

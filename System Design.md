@@ -1,0 +1,6 @@
+
+
+Scalability
+Maintainibility
+Efficiency
+Reliability
