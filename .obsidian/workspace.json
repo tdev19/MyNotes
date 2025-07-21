@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "e58b2c2f075dd83b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Commands"
+            }
+          },
+          {
             "id": "a41c5977251ced11",
             "type": "leaf",
             "state": {
@@ -258,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -400,13 +414,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28e952d74e209338",
+  "active": "e58b2c2f075dd83b",
   "lastOpenFiles": [
+    "DSA/Binary Search.md",
+    "Git Commands.md",
     "Interview Feedback.md",
     "DSA/Learning List/Things I need to learn.md",
     "DSA/Array Interview questions.md",
     "DSA/Interview 150.md",
-    "DSA/Binary Search.md",
     "AWS.md",
     "AWS Interview Questions.md",
     "AWS- ECS.md",
@@ -430,7 +445,6 @@
     "2024-07-10.md",
     "Pasted image 20240802162027.png",
     "2025-05-25.md",
-    "Angular.md",
     "Pasted image 20250611222510.png",
     "Pasted image 20240725002501.png",
     "Pasted image 20240802162017.png",
